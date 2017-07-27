@@ -1,6 +1,7 @@
-## Your Name
+## Will Porter
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm Will, I love puzzles and activities. I am a qualified (ACA) accountant currently studying at Makers Academy and am looking to utilise the things I am best to have a more engaging career. I would love to work in an engaging organisation with interesting people, solving problems and learning every day.
+
 
 ## Skills
 
@@ -23,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2017-October 2017)
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
@@ -32,11 +33,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Leeds (Sept 2012 - Sept 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Pure Mathematics MSc - Merit
+Strong focus on group theory; also took courses in set theory and graph theory.
+
+#### University of Edinburgh (Sept 2012 - Sept 2013)
+
+Pure Mathematics MSc - Merit
+Strong focus on group theory; also took courses in set theory and graph theory.
 
 #### Any other qualifications
 
