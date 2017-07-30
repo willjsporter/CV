@@ -51,4 +51,4 @@ Strong focus on group theory; also took courses in set theory and graph theory.
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
-asdfasdf
+
