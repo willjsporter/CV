@@ -45,17 +45,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Pure Mathematics MSc - Merit
 Strong focus on group theory; also took courses in set theory and graph theory.
 
-#### University of Edinburgh (Sept 2012 - Sept 2013)
+#### University of Edinburgh (Sept 2008 - June 2012)
 
-Pure Mathematics MSc - Merit
-Strong focus on group theory; also took courses in set theory and graph theory.
+Mathematics MA (Hons) 2:1
+
 
 #### Any other qualifications
 
+Grade 8 Violin
+Chartered Accountant (ACA - ICAEW)
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Grant Thornton** (January 2014 - February 2017)    
+Audit Associate
 
