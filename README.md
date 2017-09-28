@@ -1,6 +1,6 @@
 ## Will Porter
 
-I'm Will, I love puzzles and activities. I am a qualified accountant currently studying at Makers Academy and am looking to utilise the things I am best to have a more engaging career. I would love to work in an engaging organisation with interesting people, solving problems and learning every day.
+Hi, I'm Will, I love puzzles and activities. Given that we spend a third of our time working (and one of the other thirds sleeping) it is super important to me to love my job. As such, I am looking for an exciting junior developer role to challenge me and to develop my skills in. 
 
 
 ## Skills
@@ -8,36 +8,24 @@ I'm Will, I love puzzles and activities. I am a qualified accountant currently s
 #### Communication and teamwork
 
 - I am an excellent listener and pick up information and emotion from others naturally.
-- My previous job as an auditor was extrememly client-facing and through this I developed these skills by working with all levels of people in a wide range of different companies.
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- My previous job as an auditor was extrememly client-facing. As such, I developed my communication skills by working with people in a wide range of different companies, at all levels.
+- I have found pair programming a great way of developing these skills. Sharing ideas equitably has its challenges but this has taught me the value of a different perspective. I would look to find a role with a chance for regular collaboration with others.
 
 #### Quick learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Throughout school and university I developed a proficiency at learning quickly but still in a holistic way.
-- Through professional exams in my role as an auditor, I solidified this, learning and applying difficult subject matter in exams and in my job.
-- I spend my downtime objectively considering difficult problems I've encountered. I find this really solidifies my understanding of difficult subject matter.
+- During school and university I developed a proficiency at learning quickly while still in a holistic way.
+- Through professional exams in my role as an auditor, I solidified this. I learnt and applied challenging subject matter in exams and in my job.
+- I spend a lot of time considering difficult problems I've encountered, whether coding, other puzzles or social dynamics and interactions. I find this allows me to really solidify my understanding of difficult subject matter and complex interpersonal issues.
 
 ## Education
 
 #### Makers Academy (July 2017-October 2017)
 
-- Curiosity and passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
+- The main thing I have found is that I really enjoy coding - it is stimulating, challenging and rewarding.
+- I really enjoy working in pairs and adapt to other working styles but also enjoy working alone if required.
+- I worked hard to develop skills and behaviours rather than simply memorising syntax
+- OOP, TDD, MVC, Databases (SQL and Mongo)
+- Ruby, JavaScript, Rails, Node.js
 - Rspec, Jasmine, Mocha
 
 #### University of Leeds (Sept 2012 - Sept 2013)
@@ -49,14 +37,20 @@ Strong focus on group theory; also took courses in set theory and graph theory.
 
 Mathematics MA (Hons) 2:1
 
+## Experience
+
+**Grant Thornton** (January 2014 - February 2017)    
+Audit Associate
+Balanced work with studying to become a Chartered Accountant
 
 #### Any other qualifications
 
 Grade 8 Violin
 Chartered Accountant (ACA - ICAEW)
 
-## Experience
 
-**Grant Thornton** (January 2014 - February 2017)    
-Audit Associate
-
+#### Hobbies
+I play loads of hockey!
+I love craft beers
+I have an incredible dog
+Turtlenecks
