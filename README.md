@@ -39,18 +39,24 @@ Mathematics MA (Hons) 2:1
 
 ## Experience
 
-**Grant Thornton** (January 2014 - February 2017)    
+**Grant Thornton** (January 2014 - February 2017)
+
 Audit Associate
+
 Balanced work with studying to become a Chartered Accountant
 
 #### Any other qualifications
 
 Grade 8 Violin
+
 Chartered Accountant (ACA - ICAEW)
 
 
 #### Hobbies
 I play loads of hockey!
+
 I love craft beers
-I have an incredible dog
+
+I have an incredible dog Cosmo
+
 Turtlenecks
