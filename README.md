@@ -27,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Throughout school and university I developed a proficiency at learning quickly but still in a holistic way.
 - Through professional exams in my role as an auditor, I solidified this, learning and applying difficult subject matter in exams and in my job.
-- I spend my downtime objectively considering difficult problems I've encountered. I find this really solidifies my understanding of difficult subject matter.
+- I enjoy acting on feedback, either from others or through my own internal evaluation. Through reflecting on this feedback while removed from the situation I feel that I am able to improve as a developer and as a person.
 
 ## Education
 
@@ -59,4 +59,3 @@ Chartered Accountant (ACA - ICAEW)
 
 **Grant Thornton** (January 2014 - February 2017)    
 Audit Associate
-
