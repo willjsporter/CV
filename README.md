@@ -8,14 +8,14 @@ Hi, I'm Will, I love puzzles and activities. Given that we spend a third of our 
 #### Communication and teamwork
 
 - I am an excellent listener and pick up information and emotion from others naturally.
-- My previous job as an auditor was extrememly client-facing. As such, I developed my communication skills by working with people in a wide range of different companies, at all levels.
+- My previous job as an auditor was extremely client-facing. As such, I developed my communication skills by working with people in a wide range of different companies, at all levels.
 - I have found pair programming a great way of developing these skills. Sharing ideas equitably has its challenges but this has taught me the value of a different perspective. I would look to find a role with a chance for regular collaboration with others.
 
 #### Quick learner
 
 - During school and university I developed a proficiency at learning quickly while still in a holistic way.
 - Through professional exams in my role as an auditor, I solidified this. I learnt and applied challenging subject matter in exams and in my job.
-- I enjoy acting on feedback, either from others or through my own internal evaluation. Through reflecting on this feedback while removed from the situation I feel that I am able to improve as a developer and as a person.
+- I enjoy acting on feedback, either from others or through my own internal evaluation. This approach enables me to improve myself as a developer and as a person. I'd like to work in an Agile organisation in order to be able to implement these practices.
 
 ## Education
 
@@ -25,7 +25,7 @@ Hi, I'm Will, I love puzzles and activities. Given that we spend a third of our 
 - I really enjoy working in pairs and adapt to other working styles but also enjoy working alone if required.
 - I worked hard to develop skills and behaviours rather than simply memorising syntax
 - OOP, TDD, MVC, Databases (SQL and Mongo)
-- Ruby, JavaScript, Rails, Node.js
+- Ruby, JavaScript, Rails, Node.js, Swift
 - Rspec, Jasmine, Mocha
 
 #### University of Leeds (Sept 2012 - Sept 2013)
