@@ -17,6 +17,12 @@ Hi, I'm Will, I love puzzles and activities. Given that we spend a third of our 
 - Through professional exams in my role as an auditor, I solidified this. I learnt and applied challenging subject matter in exams and in my job.
 - I enjoy acting on feedback, either from others or through my own internal evaluation. This approach enables me to improve myself as a developer and as a person. I'd like to work in an Agile organisation in order to be able to implement these practices.
 
+| Project  | Description | Technologies |
+| ------------- | ------------- | ------------- |
+| <a href="https://github.com/alessiobortone2/Recurrio3">Recurrio</a> | An app to measure the levels of household items | Swift, C |
+| <a href="https://github.com/nick-otter/marryo-land">Minimalist Mario</a> | A primitive coin game built from scratch | JavaScript, HTML, Canvas (HTML), mocha |
+| <a href="https://github.com/willjsporter/takeaway-challenge">Takeaway</a> | A program to simulate a takeaway service | Ruby, Rspec |
+
 ## Education
 
 #### Makers Academy (July 2017-October 2017)
