@@ -21,7 +21,7 @@ Hi, I'm Will, I love puzzles and activities. Given that we spend a third of our 
 | ------------- | ------------- | ------------- |
 | <a href="https://github.com/alessiobortone2/Recurrio3">Recurrio</a> | An app to measure the levels of household items | Swift, C |
 | <a href="https://github.com/nick-otter/marryo-land">Minimalist Mario</a> | A primitive coin game built from scratch | JavaScript, HTML, Canvas (HTML), mocha, node.js |
-| <a href="https://github.com/willjsporter/takeaway-challenge">Takeaway</a> | A program to simulate a takeaway service | Ruby, Rspec |
+| <a href="https://github.com/willjsporter/chitter-challenge">Chitter!</a> | My own take on a basic Twitter site | Ruby, Sinatra, Rspec, Postgres, Datamapper |
 
 ## Education
 
