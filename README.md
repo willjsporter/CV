@@ -37,8 +37,7 @@ Hi, I'm Will, I love puzzles and activities. Given that we spend a third of our 
 #### University of Leeds (Sept 2012 - Sept 2013)
 
 Pure Mathematics MSc - Merit
-
-Strong focus on group theory; also took courses in set theory and graph theory.
+- Strong focus on group theory; also took courses in set theory and graph theory.
 
 #### University of Edinburgh (Sept 2008 - June 2012)
 
@@ -49,8 +48,7 @@ Mathematics MA (Hons) 2:1
 **Grant Thornton** (January 2014 - February 2017)
 
 Audit Associate
-
-Balanced work with studying to become a Chartered Accountant
+- Balanced work with studying to become a Chartered Accountant
 
 #### Any other qualifications
 
