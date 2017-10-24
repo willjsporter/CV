@@ -37,6 +37,7 @@ Hi, I'm Will, I love puzzles and activities. Given that we spend a third of our 
 #### University of Leeds (Sept 2012 - Sept 2013)
 
 Pure Mathematics MSc - Merit
+
 Strong focus on group theory; also took courses in set theory and graph theory.
 
 #### University of Edinburgh (Sept 2008 - June 2012)
@@ -53,16 +54,12 @@ Balanced work with studying to become a Chartered Accountant
 
 #### Any other qualifications
 
-Grade 8 Violin
-
-Chartered Accountant (ACA - ICAEW)
+- Grade 8 Violin
+- Chartered Accountant (ACA - ICAEW)
 
 
 #### Hobbies
-I play loads of hockey!
-
-I love craft beers
-
-I have an incredible dog Cosmo
-
-Turtlenecks
+- I play loads of hockey!
+- I love craft beers
+- I have an incredible dog Cosmo
+- Turtlenecks
