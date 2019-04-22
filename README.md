@@ -1,6 +1,6 @@
 ## Will Porter
 
-Hi, I'm Will, I love puzzles and activities. Given that we spend a third of our time working (and one of the other thirds sleeping) it is super important to me to love my job. As such, I am looking for an exciting junior developer role to challenge me and to develop my skills in.
+Hi, I'm Will and I'm looking for a role as a full-stack software developer. I am looking for a role where I can take on responsibility and thereby push myself to accelerate my learning. 
 
 
 ## Skills
