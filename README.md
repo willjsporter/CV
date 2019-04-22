@@ -17,6 +17,13 @@ Hi, I'm Will and I'm looking for a role as a full-stack software developer. I am
 - Through professional exams in my role as an auditor, I solidified this. I learnt and applied challenging subject matter in exams and in my job.
 - I enjoy acting on feedback, either from others or through my own internal evaluation. This approach enables me to improve myself as a developer and as a person. I'd like to work in an Agile organisation in order to be able to implement these practices.
 
+| Project  | Description | Technologies |
+| ------------- | ------------- | ------------- |
+| <a href="https://github.com/alessiobortone2/Recurrio3">Recurrio</a> | An app to measure the levels of household items | Swift, C |
+| <a href="https://github.com/nick-otter/marryo-land">Minimalist Mario</a> | A primitive coin game built from scratch | JavaScript, HTML, Canvas (HTML), Mocha, Node.js |
+| <a href="https://github.com/willjsporter/chitter-challenge">Chitter!</a> | My own take on a basic Twitter site | Ruby, Sinatra, Rspec, Postgres, Datamapper |
+| <a href="https://github.com/willjsporter/makersbnb/">Makers BnB</a> | A group project recreating Air BnB | JavaScript, Node.js, Mocha, Zombie, Mongo, HTML, Express |
+
 ## Education
 
 #### Makers Academy (July 2017-October 2017)
@@ -31,7 +38,7 @@ Hi, I'm Will and I'm looking for a role as a full-stack software developer. I am
 #### University of Leeds (Sept 2012 - Sept 2013)
 
 Pure Mathematics MSc - Merit
-Strong focus on group theory; also took courses in set theory and graph theory.
+- Strong focus on group theory; also took courses in set theory and graph theory.
 
 #### University of Edinburgh (Sept 2008 - June 2012)
 
@@ -42,21 +49,16 @@ Mathematics MA (Hons) 2:1
 **Grant Thornton** (January 2014 - February 2017)
 
 Audit Associate
-
-Balanced work with studying to become a Chartered Accountant
+- Balanced work with studying to become a Chartered Accountant
 
 #### Any other qualifications
 
-Grade 8 Violin
-
-Chartered Accountant (ACA - ICAEW)
+- Grade 8 Violin
+- Chartered Accountant (ACA - ICAEW)
 
 
 #### Hobbies
-I play loads of hockey!
-
-I love craft beers
-
-I have an incredible dog Cosmo
-
-Turtlenecks
+- I play loads of hockey!
+- I love craft beers
+- I have an incredible dog Cosmo
+- Turtlenecks
