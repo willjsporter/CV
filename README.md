@@ -1,57 +1,46 @@
 ## Will Porter
 
-Hi, I'm Will and I'm looking for a role as a full-stack software developer. I am looking for a role where I can take on responsibility and thereby push myself to accelerate my learning. 
+Hi, I'm a software developer who puts an emphasis on code quality and learning. I'm looking for a role where I have responsibility and where I will be pushed to learn as much as I can.
 
 
-## Skills
+## Employment History
 
-#### Communication and teamwork
+### Unruly
+#### SoftwareDeveloper Dec 2017 — now
 
-- I am an excellent listener and pick up information and emotion from others naturally.
-- My previous job as an auditor was extremely client-facing. As such, I developed my communication skills by working with people in a wide range of different companies, at all levels.
-- I have found pair programming a great way of developing these skills. Sharing ideas equitably has its challenges but this has taught me the value of a different perspective. I would look to find a role with a chance for regular collaboration with others.
+- Writing code mainly in Java (8 and 11) but also some JavaScript and Terraform work too. 
+- The environment was based on valuing an employees skills as a programmer and everyone is pushed to continue to keep learning new things which I really liked.
+- Focus on code quality: we always used test driven development and spent time making sure that we had sustainably built code that would be clear to someone else coming into the codebase.
+- Highly collaborative, xp environment - we paired or mobbed every day and took concepts like MVP and team cohesion very seriously.
+- Regularly involved in our interview process running CV screens, phone screens and design interviews for candidates of all levels.
 
-#### Quick learner
+### Grant Thornton
+#### Audit Associate Jan 2014 — Feb 2017
 
-- During school and university I developed a proficiency at learning quickly while still in a holistic way.
-- Through professional exams in my role as an auditor, I solidified this. I learnt and applied challenging subject matter in exams and in my job.
-- I enjoy acting on feedback, either from others or through my own internal evaluation. This approach enables me to improve myself as a developer and as a person. I'd like to work in an Agile organisation in order to be able to implement these practices.
-
-| Project  | Description | Technologies |
-| ------------- | ------------- | ------------- |
-| <a href="https://github.com/alessiobortone2/Recurrio3">Recurrio</a> | An app to measure the levels of household items | Swift, C |
-| <a href="https://github.com/nick-otter/marryo-land">Minimalist Mario</a> | A primitive coin game built from scratch | JavaScript, HTML, Canvas (HTML), Mocha, Node.js |
-| <a href="https://github.com/willjsporter/chitter-challenge">Chitter!</a> | My own take on a basic Twitter site | Ruby, Sinatra, Rspec, Postgres, Datamapper |
-| <a href="https://github.com/willjsporter/makersbnb/">Makers BnB</a> | A group project recreating Air BnB | JavaScript, Node.js, Mocha, Zombie, Mongo, HTML, Express |
+- Obtained an ACA accounting qualification while working as a financial auditor. 
+- This involved going into companies and understanding their business very quickly and then coming up with strategies to verify sets of accounts.
+- Gave me a good understanding of how a business is run and how to talk to people at all levels of an organisation.
+- Also led to me developing an evidence/data driven approach to problem solving.
 
 ## Education
 
 #### Makers Academy (July 2017-October 2017)
+3 month bootcamp working with Ruby and Javascript
 
-- The main thing I have found is that I really enjoy coding - it is stimulating, challenging and rewarding.
-- I really enjoy working in pairs and adapt to other working styles but also enjoy working alone if required.
-- I worked hard to develop skills and behaviours rather than simply memorising syntax
-- OOP, TDD, MVC, Databases (SQL and Mongo)
-- Ruby, JavaScript, Rails, Node.js, Swift
-- Rspec, Jasmine, Mocha
+- Heavy emphasis on test driven development and paired/mobbed work
+- Emphasis on core skills such as finding the best solutions through books/the internet rather than memorising and reusing syntax.
 
 #### University of Leeds (Sept 2012 - Sept 2013)
 
-Pure Mathematics MSc - Merit
+##### Pure Mathematics MSc - Merit
 - Strong focus on group theory; also took courses in set theory and graph theory.
 
 #### University of Edinburgh (Sept 2008 - June 2012)
 
-Mathematics MA (Hons) 2:1
+##### Mathematics MA (Hons) 2:1
 
-## Experience
 
-**Grant Thornton** (January 2014 - February 2017)
-
-Audit Associate
-- Balanced work with studying to become a Chartered Accountant
-
-#### Any other qualifications
+### Any other qualifications
 
 - Grade 8 Violin
 - Chartered Accountant (ACA - ICAEW)
@@ -60,5 +49,5 @@ Audit Associate
 #### Hobbies
 - I play loads of hockey!
 - I love craft beers
-- I have an incredible dog Cosmo
-- Turtlenecks
+- I have an incredible dog called Cosmo
+- Tracksuits and turtlenecks
