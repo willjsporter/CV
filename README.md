@@ -1,6 +1,6 @@
 ## Will Porter
 
-Hi, I'm a software developer who puts an emphasis on code quality and learning. I'm looking for a role where I have responsibility and where I will be pushed to learn as much as I can.
+Hi, I'm a software developer who puts an emphasis on code quality, collaboration and learning. I'm looking for a role where I have responsibility and where I will be pushed to learn as much as I can.
 
 
 ## Employment History
