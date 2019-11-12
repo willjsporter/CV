@@ -1,6 +1,6 @@
 ## Will Porter
 
-Hi, I'm a software developer who puts an emphasis on code quality, collaboration and learning. I'm looking for a role where I have responsibility and where I will be pushed to learn as much as I can.
+I'm a software developer who puts an emphasis on code quality, learning and solving the right problems. I'm looking for a role where I can take control of my work and where I will be pushed to learn as much as I can.
 
 
 ## Employment History
@@ -8,19 +8,19 @@ Hi, I'm a software developer who puts an emphasis on code quality, collaboration
 ### Unruly
 #### SoftwareDeveloper Dec 2017 — now
 
-- Writing code mainly in Java (8 and 11) but also some JavaScript and Terraform work too. 
-- The environment was based on valuing an employees skills as a programmer and everyone is pushed to continue to keep learning new things which I really liked.
-- Focus on code quality: we always used test driven development and spent time making sure that we had sustainably built code that would be clear to someone else coming into the codebase.
-- Highly collaborative, xp environment - we paired or mobbed every day and took concepts like MVP and team cohesion very seriously.
-- Regularly involved in our interview process running CV screens, phone screens and design interviews for candidates of all levels.
+- Writing code mainly in Java 11 having pushed my team to transition from Java 8.
+- Led my team on a project to build a new service involving major additions to an existing project, making choices over a new database and ensuring the new work was in line with new compliance laws.
+- Recently have also been working with JavaScript and Terraform projects.
+- Focus on code quality: always using test driven development and spent time making sure that code was sustainable and readable to new people coming into the codebase.
+- Highly collaborative, XP environment - mainly pair programming and took concepts like MVP and team cohesion very seriously
 
 ### Grant Thornton
 #### Audit Associate Jan 2014 — Feb 2017
 
-- Obtained an ACA accounting qualification while working as a financial auditor. 
-- This involved going into companies and understanding their business very quickly and then coming up with strategies to verify sets of accounts.
-- Gave me a good understanding of how a business is run and how to talk to people at all levels of an organisation.
-- Also led to me developing an evidence/data driven approach to problem solving.
+- Obtained an ACA accounting qualification while working as a financial auditor.
+- This involved going into companies, understanding their business and then coming up with strategies to thoroughly but efficiently verify sets of accounts.
+- Gave me a good understanding of how a business is run and exposure to people at all levels of various organisations.
+- Led to me developing an evidence/data driven approach to problem solving.
 
 ## Education
 
@@ -28,7 +28,7 @@ Hi, I'm a software developer who puts an emphasis on code quality, collaboration
 3 month bootcamp working with Ruby and Javascript
 
 - Heavy emphasis on test driven development and paired/mobbed work
-- Emphasis on core skills such as finding the best solutions through books/the internet rather than memorising and reusing syntax.
+- Emphasis on core skills such as finding the best solutions through books/the internet
 
 #### University of Leeds (Sept 2012 - Sept 2013)
 
@@ -47,7 +47,7 @@ Hi, I'm a software developer who puts an emphasis on code quality, collaboration
 
 
 #### Hobbies
-- I play loads of hockey!
-- I love craft beers
-- I have an incredible dog called Cosmo
+- Hockey!
+- Craft beers
+- My dog (Cosmo)
 - Tracksuits and turtlenecks
