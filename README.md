@@ -28,19 +28,15 @@ I'm a software developer who puts an emphasis on code quality, learning and solv
 3 month bootcamp working with Ruby and Javascript
 
 - Heavy emphasis on test driven development and paired/mobbed work
-- Emphasis on core skills such as finding the best solutions through books/the internet
+- Emphasis on core skills such as how to find answers to unknown problems 
 
-#### University of Leeds (Sept 2012 - Sept 2013)
-
-##### Pure Mathematics MSc - Merit
+#### University of Leeds (Sept 2012 - Sept 2013) - Pure Mathematics MSc - Merit
 - Strong focus on group theory; also took courses in set theory and graph theory.
 
-#### University of Edinburgh (Sept 2008 - June 2012)
+#### University of Edinburgh (Sept 2008 - June 2012) - Mathematics MA (Hons) - 2:1
 
-##### Mathematics MA (Hons) 2:1
-
-
-### Any other qualifications
+## Other Things
+#### Any other qualifications
 
 - Grade 8 Violin
 - Chartered Accountant (ACA - ICAEW)
