@@ -9,7 +9,7 @@ I'm a software developer who puts an emphasis on code quality, learning and solv
 #### SoftwareDeveloper Dec 2017 — now
 
 - Writing code mainly in Java 11 having pushed my team to transition from Java 8.
-- Led my team on a project to build a new service involving major additions to an existing project, making choices over a new database and ensuring the new work was in line with new compliance laws.
+- Led my team on a project to build a new service involving major additions to an existing project, making choices over a new database and ensuring the work was done in line with new compliance laws.
 - Recently have also been working with JavaScript and Terraform projects.
 - Focus on code quality: always using test driven development and spent time making sure that code was sustainable and readable to new people coming into the codebase.
 - Highly collaborative, XP environment - mainly pair programming and took concepts like MVP and team cohesion very seriously
@@ -47,7 +47,6 @@ I'm a software developer who puts an emphasis on code quality, learning and solv
 
 
 #### Hobbies
-- Hockey!
-- Craft beers
+- Hockey
 - My dog (Cosmo)
 - Tracksuits and turtlenecks
