@@ -2,15 +2,16 @@
 
 I'm a software developer who puts an emphasis on code quality, learning and solving the right problems. I'm looking for a role in a collaborative environment where I can share ideas, learn from others and make a difference.
 
+<br>
 
 ## Employment History
 
 ### Breaking Wave
 #### Software Developer Sept 2020 - Feb 2021 (contract)
 
-- Working in Java 11 with Spring Boot to create new Dockerized microservices.
-- Used Typescript and React across a web-app and api that talked to the Java microservices.
-- Owned development of one service and worked across all others.
+- Working in Java 11 with Spring Boot to create several new Dockerized microservices.
+- Used Typescript and React to build out a web app and API that talked to the Java microservices.
+- Owned development of one microservice and did significant work across all others.
 - Heavily involved in building Postman/Newman test suites (for cross-service testing), and BackstopJS/Puppeteer (for snapshot UI testing).
 
 
@@ -30,6 +31,9 @@ I'm a software developer who puts an emphasis on code quality, learning and solv
 - This involved going into companies, understanding their business and then coming up with strategies to thoroughly but efficiently verify sets of accounts.
 - Gave me a good understanding of how a business is run and exposure to people at all levels of various organisations.
 - Led to me developing an evidence/data driven approach to problem solving.
+
+<br>
+<br>
 
 ## Education
 
