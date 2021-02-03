@@ -1,17 +1,25 @@
 ## Will Porter
 
-I'm a software developer who puts an emphasis on code quality, learning and solving the right problems. I'm looking for a role where I can take control of my work and where I will be pushed to learn as much as I can.
+I'm a software developer who puts an emphasis on code quality, learning and solving the right problems. I'm looking for a role in a collaborative environment where I can share ideas, learn from others and make a difference.
 
 
 ## Employment History
+
+### Breaking Wave
+#### Software Developer Sept 2020 - Feb 2021 (contract)
+
+- Working in Java 11 with Spring Boot to create new Dockerized microservices.
+- Used Typescript and React across a web-app and api that talked to the Java microservices.
+- Owned development of one service and worked across all others.
+- Heavily involved in building Postman/Newman test suites (for cross-service testing), and BackstopJS/Puppeteer (for snapshot UI testing).
+
 
 ### Unruly
 #### Software Developer Dec 2017 — Jan 2020
 
 - Writing code mainly in Java 11 having pushed my team to transition from Java 8.
 - Led my team on a project to build a new service involving major additions to an existing project, making choices over a new database and ensuring the work was done in line with new compliance laws.
-- Recently have also been working more with JavaScript and Terraform projects.
-- Used a variety of AWS features including EC2, ECS, S3, Lambda, DynamoDB, Cloudwatch. Familiar with the Java SDK and command line tools for these.  
+- Used a variety of AWS features including EC2, ECS, S3, Lambda, DynamoDB, Cloudwatch, deploying all through terraform. Familiar with the Java SDK and command line tools for these.  
 - Focus on code quality: always using test driven development and spent time making sure that code was sustainable and readable to new people coming into the codebase.
 - Highly collaborative, XP environment - mainly pair programming and took concepts like MVP and team cohesion very seriously.
 
